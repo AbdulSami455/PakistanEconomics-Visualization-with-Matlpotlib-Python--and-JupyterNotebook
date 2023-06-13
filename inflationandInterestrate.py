@@ -31,5 +31,7 @@ plt.axvline(x=13.8, color='red', linestyle='--')
 plt.annotate('2020', xy=(9.1, 9.5), xytext=(9.1, 9.7), color='red', ha='center')
 plt.annotate('2022', xy=(13.8, 9.5), xytext=(13.8, 9.7), color='red', ha='center')
 
+plt.grid(True)
+
 # Display the plot
 plt.show()
