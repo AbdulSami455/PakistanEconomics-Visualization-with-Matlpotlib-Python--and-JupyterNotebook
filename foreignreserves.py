@@ -13,7 +13,7 @@ x = x[1::60]
 y = y[1::60]
 #x=x[-4:]
 #y=y[-4:]
-plt.plot(x, y)
+plt.stackplot(x, y)
 
 plt.xlabel('Years')
 plt.ylabel('Reserves In Million USD')
