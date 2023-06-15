@@ -1,11 +1,3 @@
-#USA-12.5
-#SaudiArabia-24%
-#UK-15
-#UAE-18
-#Oman-3%
-#QAtar-3%
-#Italy-3.3%
-#Canada-2%
 
 import matplotlib.pyplot as plt
 x=[24,12,15,18,3,3,3,2]
